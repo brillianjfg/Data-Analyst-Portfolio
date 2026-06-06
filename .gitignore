@@ -2,5 +2,4 @@ venv/
 __pycache__/
 .DS_Store
 data/urban_flow/clean_nyc_taxi_trips.csv
-
-data/urban_flow/urban.pbix
+data/urban_flow/urban.pbixRemove-Item -Force ~/.gitconfig
